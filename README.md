@@ -1,6 +1,6 @@
 # 모두가 모이는 뱅킹, 모모뱅크
 <p align="center">
-  <img src="https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled.png?ref_type=heads" alt="Untitled">
+  <img src="README/Untitled.png" alt="Untitled">
 </p>
 
 ## 개요
@@ -49,7 +49,7 @@
 
 ## 시스템 구성도
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%201.png?ref_type=heads)
+![Untitled](README/Untitled%201.png?ref_type=heads)
 
 ```jsx
 [ 클라이언트 ]
@@ -122,12 +122,12 @@ MSA구조로 다음과같이 세 개의 ERD가 존재합니다.
 
 - **User**: MariaDB
 
-  ![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%202.png?ref_type=heads)
+  ![Untitled](README/Untitled%202.png?ref_type=heads)
 
 - **Bank**: Oracle DB
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%203.png?ref_type=heads)
+![Untitled](README/Untitled%203.png?ref_type=heads)
 
 - **Community**: MariaDB
 
-![Untitled](https://lab.ssafy.com/s10-fintech-finance-sub2/S10P22A505/-/raw/develop/README/Untitled%204.png?ref_type=heads)
+![Untitled](README/Untitled%204.png?ref_type=heads)
